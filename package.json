@@ -1,0 +1,23 @@
+{
+   "name": "news-backend",
+   "version": "news website",
+   "description": "news web site",
+   "main": "index.js",
+   "repository": "https://github.com/ELBEQQAL94/news.git",
+   "author": "YOUSSEF EL BEQQAL <elbeqqal.youssef@gmail.com>",
+   "license": "MIT",
+   "dependencies": {
+      "@types/node": "^14.0.13",
+      "reflect-metadata": "^0.1.13",
+      "typeorm": "0.2.25",
+      "pg": "^8.2.1"
+   },
+   "devDependencies": {
+      "ts-node": "8.10.2",
+      "@types/node": "^14.0.13",
+      "typescript": "3.9.5"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts"
+   }
+}
