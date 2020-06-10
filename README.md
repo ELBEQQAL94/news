@@ -1,8 +1,8 @@
-### news web site
+# news web site
 
 ## Backend
 
-# Auth todos:
+### Auth todos:
 * Login
 * Register
 * Send cofirmation email
